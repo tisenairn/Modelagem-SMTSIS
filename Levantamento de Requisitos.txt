@@ -1,0 +1,84 @@
+Levantamento de Requisitos
+
+1. Identificação
+1.1. Nome
+1.2. Data de Nascimento
+1.3. RG
+1.4. Órgão expedidor
+1.5. CPF/CNPJ
+1.6. Contribuinte
+1.7. CNH (Op.)
+1.8. UF
+1.9. Endereço
+1.9.1. CEP
+1.9.2. Logradouro
+1.9.3. Complemento
+1.9.4. UF
+1.9.5. Bairro
+1.9.6. N°
+1.9.7. Cidade
+1.10. Contato
+1.11. E-mail
+1.12. Comercial
+1.13. Celular (*)
+
+
+2. Imóvel
+2.1. Tipo de Imóvel (Combo Box / Select)
+2.1.1. Apartamento
+2.1.2. Casa
+2.1.3. Motel
+2.1.4. Terreno
+2.1.5. Hospital
+2.1.6. Galpão
+2.1.7. Shopping
+2.1.8. Ginásio
+2.2. Utilização do Imóvel
+2.2.1. Mista
+2.2.2. Metálica
+2.2.3. Hospital
+2.3. Padrão de Qualidade
+2.3.1. Alto
+2.3.2. Médio
+2.3.3. Baixo
+2.4. Informações Gerais
+2.4.1. Pedologia
+2.4.1.1. Normal
+2.4.1.2. Alagado Total
+2.4.1.3. Alagado +50%
+2.4.1.4. Alagado -50%
+2.4.2. Topografia
+2.4.2.1. Plano
+2.4.2.2. Aclive/Declive
+2.4.2.3. Redução de capacidade
+2.4.3. Estado de conservação
+2.4.3.1. Ótimo
+2.4.3.2. Regular
+2.4.3.3. Ruim
+2.4.4. Situação do Terreno
+2.4.4.1. Meio de quadra
+2.4.4.2. Encravado
+2.4.4.3. Esquina
+2.4.4.4. Mais de uma frente
+2.4.4.5. Fundo/Interno
+
+
+2.4.5. Impostos e taxas
+2.4.5.1. Impostos
+2.4.5.1.1. De (Data)
+2.4.5.1.2. Até (Data)
+2.4.5.2. Limpeza
+2.4.5.2.1. De (Data)
+2.4.5.2.2. Até (Data)
+2.4.5.3. Ajuste de valor por área (Combo Box / Select)
+2.4.5.3.1. Zona 01
+2.4.5.3.2. Zona 02
+2.4.5.3.3. Zona 03
+2.4.5.3.4. Zona 04 
+2.4.5.3.5. Zona 05
+3. Fiscal / Responsável pelas informações
+3.1. Data (Date Time)
+3.2. Nome
+3.3. Assinatura
+3.4. Matrícula
+3.5. Observações
