@@ -15,22 +15,78 @@ No cadastro deve estar as seguintes informações:
 	- Data de Nascimento; 
 	- telefone;
 	- logradouro;
-	- RG;
 	- CPF/CNPJ;
+	- RG;
 	  - Orgão expedidor;
 	- CNH;
 	- UF;
-	- 
-> [...]
+ 
+## `Endereço:`
+	- CEP;
+	- Logradouro;
+	- Complemento;
+	- UF;
+	- Bairro;
+	- Número;
+	- Cidade;
+	- Contato;
+	- E-mail;
+	- Comercial;
+	- Celular;
 
 ### `Imóvel:`
-	- Localização;
-	- metragem;
-	- dados do lote;
-	- descrição do imóvel;
-	- informações da rua;
-	- 
-> [...] 
-## `Endereço:`
+	- Tipo de imóvel:
+	  - Apartamento;
+	  - Casa;
+	  - Motel;
+	  - Terreno;
+	  - Hospital;
+	  - Galpão;
+	  - Shopping;
+	  - Ginásio;
+	- Utilização do imóvel:
+	  - Mista;
+	  - Metálica;
+	  - Hospital;
+	- Padrão de Qualidade:
+	  - Alto;
+	  - Médio;
+	  - Baixo;
+	- Informações gerais:
+	  - Pedologia:
+	    - Normal;
+	    - Alagado Total;
+	    - Alagado +50%;
+	    - Alagado -50%;
+	  - Topografia:
+	    - Plano;
+	    - Aclive/Declive;
+	    - Redução de Capacidade;
+	  - Estado de Conservação:
+	    - Ótimo;
+	    - Regular;
+	    - Ruim;
+	  - Situação do Terreno:
+	    - Meio de quadra;
+	    - Encravado;
+	    - Esquina;
+	    - Mais de uma frente;
+	    - Fundo/Interno;
 
- 
+### `Impostos e taxas:`
+	- Impostos:
+	  - De: (date);
+	  - Até: (date);
+	- Limpeza:
+          - De: (date);
+          - Até: (date);
+	- Ajuste de valor por área:
+	  - Zona 01;
+	  - [...]
+          - Zona 05;
+### `Fiscal (Responsável pelas informações)`
+	- Data (datetime);
+	- Nome;
+	- Assinatura;
+	- Matrícula;
+	- Observações;
