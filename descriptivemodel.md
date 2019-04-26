@@ -82,9 +82,15 @@ No cadastro deve estar as seguintes informações:
   - Até: (date);
 - Ajuste de valor por área:
   - Zona 01;
+<<<<<<< HEAD
   - `[...]`
   - Zona 05;
 ### `Fiscal (Responsável pelas informações):`
+=======
+  - [...]
+  - Zona 05;
+### `Fiscal (Responsável pelas informações)`
+>>>>>>> 0c34279cd82efcf66b674f4df67f3d3febce3b33
 - Data (datetime);
 - Nome;
 - Assinatura;
