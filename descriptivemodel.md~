@@ -11,16 +11,11 @@
 No cadastro deve estar as seguintes informações:
 
 ### `Contribuinte/proprietário:`
-	- Nome;
-	- Data de Nascimento; 
+	- Nome; 
 	- telefone;
 	- logradouro;
 	- RG;
-	- CPF/CNPJ;
-	  - Orgão expedidor;
-	- CNH;
-	- UF;
-	- 
+	- CPF/CNPJ
 > [...]
 
 ### `Imóvel:`
@@ -29,8 +24,5 @@ No cadastro deve estar as seguintes informações:
 	- dados do lote;
 	- descrição do imóvel;
 	- informações da rua;
-	- 
 > [...] 
-## `Endereço:`
-
  
