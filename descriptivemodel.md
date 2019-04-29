@@ -29,10 +29,10 @@ No cadastro deve estar as seguintes informações:
 - Bairro;
 - Número;
 - Cidade;
-- Contato;
-- E-mail;
-- Comercial;
-- Celular;
+  - Contato;
+  - E-mail;
+  - Comercial;
+  - Celular;
 
 ### `Imóvel:`
 - Tipo de imóvel:
